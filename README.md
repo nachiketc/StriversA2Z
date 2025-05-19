@@ -6,14 +6,13 @@ This repository contains Python solutions categorized by topics from the [Strive
 
 ## 📈 Overall Progress
 
-| Section | Total Problems | Done | Pending |
-|---------|----------------|------|---------|
-| Step 1: Basics | 8 | X | Y |
-| Step 2: Arrays | – | – | – |
-| Step 3: Strings | – | – | – |
-| ...     | ...            | ...  | ...     |
+| Section        | Total Problems | Done | Pending |
+|----------------|----------------|------|---------|
+| Step 1: Basics | 8              | 1    | 7       |
+| Step 2: Arrays | –              | –    | –       |
+| Step 3: Strings| –              | –    | –       |
+| ...            | ...            | ...  | ...     |
 
-_Update these numbers as you go._
 
 ---
 
@@ -21,16 +20,16 @@ _Update these numbers as you go._
 
 ### 🧮 1.3: Maths
 
-| ✅ | # | Problem | Platform | Solution | Notes |
-|----|---|---------|----------|----------|-------|
-| [ ] | 1 | Count Digits | [CN](https://www.codingninjas.com/studio/problems/count-digits_8416387) | [count_digits.py](Step1/1.3_Maths/count_digits.py) | Use `%` and integer division |
-| [ ] | 2 | Reverse Integer | [LC](https://leetcode.com/problems/reverse-integer/) | [reverse_integer.py](Step1/1.3_Maths/reverse_integer.py) | Handle negatives and overflow |
-| [ ] | 3 | Check Palindrome Number | [LC](https://leetcode.com/problems/palindrome-number/) | [palindrome_number.py](Step1/1.3_Maths/palindrome_number.py) | Reverse & compare |
-| [ ] | 4 | GCD / HCF | [CN](https://www.codingninjas.com/studio/problems/gcd_8417285) | [gcd.py](Step1/1.3_Maths/gcd.py) | Use Euclidean algorithm |
-| [ ] | 5 | LCM | [CN](https://www.codingninjas.com/studio/problems/lcm_8417489) | [lcm.py](Step1/1.3_Maths/lcm.py) | `lcm = (a*b)//gcd` |
-| [ ] | 6 | Check Armstrong Number | [CN](https://www.codingninjas.com/studio/problems/check-armstrong_589) | [armstrong.py](Step1/1.3_Maths/armstrong.py) | Power of digits |
-| [ ] | 7 | Print All Divisors | [CN](https://www.codingninjas.com/studio/problems/print-divisors_3608828) | [divisors.py](Step1/1.3_Maths/divisors.py) | Up to √n optimization |
-| [ ] | 8 | Check Prime | [CN](https://www.codingninjas.com/studio/problems/prime-number_624934) | [is_prime.py](Step1/1.3_Maths/is_prime.py) | Trial division up to √n |
+| ✅   | #  | Problem                | Platform                                                                 | Solution                                                        | Notes                     |
+|------|----|------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------|
+| [x]  | 1  | Count Digits            | [CN](https://www.codingninjas.com/studio/problems/count-digits_8416387) | [count_digits.py](Step1_Basics/1.3_Maths/count_digits.py)       | Use `%` and integer division |
+| [ ]  | 2  | Reverse Integer        | [LC](https://leetcode.com/problems/reverse-integer/)                    | [reverse_integer.py](Step1_Basics/1.3_Maths/reverse_integer.py) | Handle negatives and overflow |
+| [ ]  | 3  | Check Palindrome Number | [LC](https://leetcode.com/problems/palindrome-number/)                  | [palindrome_number.py](Step1_Basics/1.3_Maths/palindrome_number.py) | Reverse & compare          |
+| [ ]  | 4  | GCD / HCF               | [CN](https://www.codingninjas.com/studio/problems/gcd_8417285)          | [gcd.py](Step1_Basics/1.3_Maths/gcd.py)                         | Use Euclidean algorithm    |
+| [ ]  | 5  | LCM                     | [CN](https://www.codingninjas.com/studio/problems/lcm_8417489)          | [lcm.py](Step1_Basics/1.3_Maths/lcm.py)                         | `lcm = (a*b)//gcd`         |
+| [ ]  | 6  | Check Armstrong Number  | [CN](https://www.codingninjas.com/studio/problems/check-armstrong_589)  | [armstrong.py](Step1_Basics/1.3_Maths/armstrong.py)             | Power of digits            |
+| [ ]  | 7  | Print All Divisors      | [CN](https://www.codingninjas.com/studio/problems/print-divisors_3608828)| [divisors.py](Step1_Basics/1.3_Maths/divisors.py)               | Up to √n optimization      |
+| [ ]  | 8  | Check Prime             | [CN](https://www.codingninjas.com/studio/problems/prime-number_624934)  | [is_prime.py](Step1_Basics/1.3_Maths/is_prime.py)               | Trial division up to √n    |
 
 ---
 
