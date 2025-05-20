@@ -8,7 +8,7 @@ This repository contains Python solutions categorized by topics from the [Strive
 
 | Section        | Total Problems | Done | Pending |
 |----------------|----------------|------|---------|
-| Step 1: Basics | 8              | 1    | 7       |
+| Step 1: Basics | 8              | 3    | 5       |
 | Step 2: Arrays | –              | –    | –       |
 | Step 3: Strings| –              | –    | –       |
 | ...            | ...            | ...  | ...     |
@@ -23,8 +23,8 @@ This repository contains Python solutions categorized by topics from the [Strive
 | ✅   | #  | Problem                | Platform                                                                 | Solution                                                        | Notes                     |
 |------|----|------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------|
 | [x]  | 1  | Count Digits            | [CN](https://www.codingninjas.com/studio/problems/count-digits_8416387) | [count_digits.py](Step1_Basics/1.3_Maths/count_digits.py)       | Use `%` and integer division |
-| [ ]  | 2  | Reverse Integer        | [LC](https://leetcode.com/problems/reverse-integer/)                    | [reverse_integer.py](Step1_Basics/1.3_Maths/reverse_integer.py) | Handle negatives and overflow |
-| [ ]  | 3  | Check Palindrome Number | [LC](https://leetcode.com/problems/palindrome-number/)                  | [palindrome_number.py](Step1_Basics/1.3_Maths/palindrome_number.py) | Reverse & compare          |
+| [x]  | 2  | Reverse Integer        | [LC](https://leetcode.com/problems/reverse-integer/)                    | [reverse_integer.py](Step1_Basics/1.3_Maths/reverse_integer.py) | Handle negatives and overflow |
+| [x]  | 3  | Check Palindrome Number | [LC](https://leetcode.com/problems/palindrome-number/)                  | [palindrome_number.py](Step1_Basics/1.3_Maths/palindrome_number.py) | Reverse & compare          |
 | [ ]  | 4  | GCD / HCF               | [CN](https://www.codingninjas.com/studio/problems/gcd_8417285)          | [gcd.py](Step1_Basics/1.3_Maths/gcd.py)                         | Use Euclidean algorithm    |
 | [ ]  | 5  | LCM                     | [CN](https://www.codingninjas.com/studio/problems/lcm_8417489)          | [lcm.py](Step1_Basics/1.3_Maths/lcm.py)                         | `lcm = (a*b)//gcd`         |
 | [ ]  | 6  | Check Armstrong Number  | [CN](https://www.codingninjas.com/studio/problems/check-armstrong_589)  | [armstrong.py](Step1_Basics/1.3_Maths/armstrong.py)             | Power of digits            |
