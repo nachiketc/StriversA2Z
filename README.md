@@ -42,8 +42,8 @@ This repository contains Python solutions categorized by topics from the [Strive
 | [ ] | 4 | Sum of first N numbers | [CN](https://www.codingninjas.com/studio/problems/sum-of-first-n-numbers_8876068) | [sum_of_n.py](Step1_Basics/1.4_Recursion/sum_of_n.py) | `sum = n + f(n-1)` |
 | [ ] | 5 | Factorial of N | [LC](https://leetcode.com/problems/factorial-trailing-zeroes/) | [factorial.py](Step1_Basics/1.4_Recursion/factorial.py) | Classic recursive factorial |
 | [ ] | 6 | Reverse an array | [CN](https://www.codingninjas.com/studio/problems/reverse-array_1232638) | [reverse_array.py](Step1_Basics/1.4_Recursion/reverse_array.py) | Two-pointer + recursion |
-| [ ] | 7 | Check Palindrome (Recursion) | [LC](https://leetcode.com/problems/valid-palindrome/) | [check_palindrome.py](Step1_Basics/1.4_Recursion/check_palindrome.py) | Compare first and last |
-| [ ] | 8 | Fibonacci Number | [LC](https://leetcode.com/problems/fibonacci-number/) | [fibonacci.py](Step1_Basics/1.4_Recursion/fibonacci.py) | Naive recursive solution |
+| [x] | 7 | Check Palindrome (Recursion) | [LC](https://leetcode.com/problems/valid-palindrome/) | [check_palindrome.py](Step1_Basics/1.4_Recursion/check_palindrome.py) | Compare first and last |
+| [x] | 8 | Fibonacci Number | [LC](https://leetcode.com/problems/fibonacci-number/) | [fibonacci.py](Step1_Basics/1.4_Recursion/fibonacci.py) | Naive recursive solution |
 
 ---
 
