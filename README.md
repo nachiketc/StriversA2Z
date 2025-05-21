@@ -31,6 +31,20 @@ This repository contains Python solutions categorized by topics from the [Strive
 | [x]  | 7  | Print All Divisors      | [CN](https://www.codingninjas.com/studio/problems/print-divisors_3608828)| [divisors.py](Step1_Basics/1.3_Maths/divisors.py)               | Up to √n optimization      |
 | [ ]  | 8  | Check Prime             | [CN](https://www.codingninjas.com/studio/problems/prime-number_624934)  | [is_prime.py](Step1_Basics/1.3_Maths/is_prime.py)               | Trial division up to √n    |
 
+
+### 🔁 1.4: Recursion
+
+| ✅ | # | Problem | Platform | Solution | Notes |
+|----|---|---------|----------|----------|-------|
+| [ ] | 1 | Print Name N times | [CN](https://www.codingninjas.com/studio/problems/print-name-n-times_3625289) | [print_name_n_times.py](Step1_Basics/1.4_Recursion/print_name_n_times.py) | Simple base case recursion |
+| [ ] | 2 | Print 1 to N | [CN](https://www.codingninjas.com/studio/problems/print-1-to-n_628290) | [print_1_to_n.py](Step1_Basics/1.4_Recursion/print_1_to_n.py) | Tail recursion |
+| [ ] | 3 | Print N to 1 | [CN](https://www.codingninjas.com/studio/problems/print-n-to-1_628290) | [print_n_to_1.py](Step1_Basics/1.4_Recursion/print_n_to_1.py) | Base case-first |
+| [ ] | 4 | Sum of first N numbers | [CN](https://www.codingninjas.com/studio/problems/sum-of-first-n-numbers_8876068) | [sum_of_n.py](Step1_Basics/1.4_Recursion/sum_of_n.py) | `sum = n + f(n-1)` |
+| [ ] | 5 | Factorial of N | [LC](https://leetcode.com/problems/factorial-trailing-zeroes/) | [factorial.py](Step1_Basics/1.4_Recursion/factorial.py) | Classic recursive factorial |
+| [ ] | 6 | Reverse an array | [CN](https://www.codingninjas.com/studio/problems/reverse-array_1232638) | [reverse_array.py](Step1_Basics/1.4_Recursion/reverse_array.py) | Two-pointer + recursion |
+| [ ] | 7 | Check Palindrome (Recursion) | [LC](https://leetcode.com/problems/valid-palindrome/) | [check_palindrome.py](Step1_Basics/1.4_Recursion/check_palindrome.py) | Compare first and last |
+| [ ] | 8 | Fibonacci Number | [LC](https://leetcode.com/problems/fibonacci-number/) | [fibonacci.py](Step1_Basics/1.4_Recursion/fibonacci.py) | Naive recursive solution |
+
 ---
 
 ## 📁 Folder Structure
