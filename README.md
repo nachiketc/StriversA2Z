@@ -45,6 +45,17 @@ This repository contains Python solutions categorized by topics from the [Strive
 | [x] | 7 | Check Palindrome (Recursion) | [LC](https://leetcode.com/problems/valid-palindrome/) | [check_palindrome.py](Step1_Basics/1.4_Recursion/check_palindrome.py) | Compare first and last |
 | [x] | 8 | Fibonacci Number | [LC](https://leetcode.com/problems/fibonacci-number/) | [fibonacci.py](Step1_Basics/1.4_Recursion/fibonacci.py) | Naive recursive solution |
 
+
+### 🔐 1.5: Hashing
+
+| ✅   | #  | Problem                 | Platform                                                                 | Solution                                                                 | Notes                            |
+|------|----|-------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------|
+| [x]  | 1  | Two Sum                 | [LC](https://leetcode.com/problems/two-sum/)                             | [two_sum.py](Step1_Basics/1.5_Hashing/two_sum.py)                         | Use hashmap for O(n) lookup      |
+| [x]  | 2  | Valid Anagram           | [LC](https://leetcode.com/problems/valid-anagram/)                       | [valid_anagram.py](Step1_Basics/1.5_Hashing/valid_anagram.py)             | Count characters using hashmap   |
+| [ ]  | 3  | Group Anagrams          | [LC](https://leetcode.com/problems/group-anagrams/)                      | [group_anagrams.py](Step1_Basics/1.5_Hashing/group_anagrams.py)           | Use sorted tuple as key in map   |
+| [ ]  | 4  | Happy Number            | [LC](https://leetcode.com/problems/happy-number/)                        | [happy_number.py](Step1_Basics/1.5_Hashing/happy_number.py)               | Use set to detect cycles         |
+| [ ]  | 5  | Contains Duplicate      | [LC](https://leetcode.com/problems/contains-duplicate/)                  | [contains_duplicate.py](Step1_Basics/1.5_Hashing/contains_duplicate.py)   | Detect duplicates using a set    |
+
 ---
 
 ## 📁 Folder Structure
