@@ -1,0 +1,15 @@
+# Python cache
+update_readme.py
+# # Logs
+# *.log
+# logs/
+
+# # VS Code config
+# .vscode/
+
+# # Env files
+# .env
+# .env.local
+
+# # Output
+# output/
