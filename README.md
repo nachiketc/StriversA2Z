@@ -8,10 +8,11 @@ This repository contains Python solutions categorized by topics from the [Strive
 
 | Section        | Total Problems | Done | Pending |
 |----------------|----------------|------|---------|
-| Step 1: Basics | 8              | 3    | 5       |
-| Step 2: Arrays | –              | –    | –       |
-| Step 3: Strings| –              | –    | –       |
+| Step 1: Basics | 21             | 17   | 4       |
+| Step 2: Sorting| 5              | 5    | 0       |
+| Step 3: Arrays | –              | –    | –       |
 | ...            | ...            | ...  | ...     |
+
 
 
 ---
