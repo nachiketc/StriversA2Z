@@ -70,8 +70,26 @@ This repository contains Python solutions categorized by topics from the [Strive
 | [x]  | 3  | Insertion Sort           | [Sort‑an‑Array](https://leetcode.com/problems/sort-an-array/)                | [insertion_sort.py](Step2_Sorting/insertion_sort.py)   | Build sorted subarray, O(n²)          |
 | [x]  | 4  | Merge Two Sorted Arrays  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)      | [merge_two_sorted.py](Step2_Sorting/merge_two_sorted.py) | Two-pointer merge technique           |
 | [x]  | 5  | Merge Sort (Recursion)   | [Sort‑an‑Array](https://leetcode.com/problems/sort-an-array/)                | [merge_sort.py](Step2_Sorting/merge_sort.py)           | Divide & merge, O(n log n)            |
+| [ ]  | 6  | Quick Sort (Recursion)      | [Sort‑an‑Array](https://leetcode.com/problems/sort-an-array/)                | [quick_sort.py](Step2_Sorting/quick_sort.py)           | Partition-based, divide & conquer     |
 
 ---
+
+## 🧮 Step 3: Learn the Basics of Arrays
+
+### 📂 3.1: Easy Array Problems
+
+| ✅   | #  | Problem                                | LeetCode / CN Link                                                                  | Solution File                                           | Notes                                  |
+|------|----|----------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------|
+| [ ]  | 1  | Largest Element in Array               | [Link](https://www.codingninjas.com/studio/problems/ninja-and-the-largest-element_6581957) | [largest_element.py](Step3_Arrays/largest_element.py)     | Traverse once, keep track of max      |
+| [ ]  | 2  | Second Largest Element in Array        | [Link](https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960) | [second_largest.py](Step3_Arrays/second_largest.py)      | One-pass or two-pass variant          |
+| [ ]  | 3  | Check if Array is Sorted               | [Link](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | [is_sorted.py](Step3_Arrays/is_sorted.py)                | Compare each pair a[i] <= a[i+1]      |
+| [x]  | 4  | Remove Duplicates from Sorted Array    | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)           | [remove_duplicates.py](Step3_Arrays/remove_duplicates.py) | Two-pointer method                    |
+| [ ]  | 5  | Left Rotate an Array by One Place      | [Link](https://www.codingninjas.com/studio/problems/rotate-array_1230543)            | [left_rotate_one.py](Step3_Arrays/left_rotate_one.py)    | Save first element, shift, append     |
+| [ ]  | 6  | Left Rotate by D Places                | [Link](https://leetcode.com/problems/rotate-array/)                                  | [left_rotate_d.py](Step3_Arrays/left_rotate_d.py)        | Use reversal algorithm or temp array  |
+| [ ]  | 7  | Move Zeros to End                      | [Link](https://leetcode.com/problems/move-zeroes/)                                   | [move_zeros.py](Step3_Arrays/move_zeros.py)              | Two-pointer or count-zero approach    |
+| [ ]  | 8  | Union of Two Arrays                    | [Link](https://www.codingninjas.com/studio/problems/union-of-two-sorted-arrays_1082149) | [union_sorted.py](Step3_Arrays/union_sorted.py)          | Two pointers on sorted arrays         |
+| [ ]  | 9  | Intersection of Two Arrays             | [Link](https ://leetcode.com/problems/intersection-of-two-arrays/)                    | [intersection.py](Step3_Arrays/intersection.py)          | Use set/hashmap or two pointers       |
+
 
 ---
 
