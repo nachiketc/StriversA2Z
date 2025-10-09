@@ -102,8 +102,8 @@ This repository contains Python solutions categorized by topics from the [Strive
 | [x]  | 4  | Search in Rotated Sorted Array I | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [search_rotated_array.py](Step3_Arrays/3.2_BS/search_rotated_array.py) | Pivot + binary search                  |
 | [x]  | 5  | Search in Rotated Sorted Array II| [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [search_rotated_array_ii.py](Step3_Arrays/3.2_BS/search_rotated_array_ii.py) | Handle duplicates                     |
 | [x]  | 6  | Single Element in Sorted Array  | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [single_element.py](Step3_Arrays/3.2_BS/single_element.py)     | XOR or binary search on pairs          |
-| [ ]  | 7  | Find Peak Element               | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)          | [find_peak.py](Step3_Arrays/3.2_BS/find_peak.py)               | Binary search on slopes                |
-| [ ]  | 8  | Search in 2D Matrix             | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)        | [search_2d_matrix.py](Step3_Arrays/3.2_BS/search_2d_matrix.py) | Treat matrix as flattened array        |
+| [x]  | 7  | Find Peak Element               | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)          | [find_peak.py](Step3_Arrays/3.2_BS/find_peak.py)               | Binary search on slopes                |
+| [x]  | 8  | Search in 2D Matrix             | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)        | [search_2d_matrix.py](Step3_Arrays/3.2_BS/search_2d_matrix.py) | Treat matrix as flattened array        |
 | [ ]  | 9  | Search in 2D Matrix II          | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)  | [search_2d_matrix_ii.py](Step3_Arrays/3.2_BS/search_2d_matrix_ii.py) | Start from corner, O(m+n)              |
 
 
