@@ -1,6 +1,23 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
 
+    #Solution 1 optimal solution 
+
+        i,j = len(matrix)-1,0
+        while i>=0 and j<=len(matrix[0])-1:
+
+            #check current
+            if matrix[i][j] == target :
+                return True
+            #if element greater -> move up
+            elif matrix[i][j] > target :
+                i-=1
+            else :
+                j+=1
+            
+        return False
+
+    #Solution 2
 
         i,j = 0,0 # row and column index
         lowi,lowj = 0,0 #lower limit
